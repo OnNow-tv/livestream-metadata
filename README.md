@@ -1,1 +1,1 @@
-# livestream-metadata-standard
+# livestream-metadata
