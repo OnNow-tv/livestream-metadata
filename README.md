@@ -12,9 +12,7 @@ As livestreaming catches on among creators and viewers, it needs this important 
 
 [OnNow.tv](https://www.onnow.tv/) is proposing new livestream metadata standards that will make data about livestreams more consistent, distributable, useful, and valuable to fans and creators. Metadata, the descriptive information included with audiovisual files, include basics, such as the creator name and title of a livestream, as well as broadcast details and tags and categories. Metadata standards allow media to be presented to more people across more online destinations with greater efficiency. As monetization of livestreams expands, metadata may play a crucial role in protecting creators’ rights and increasing revenue opportunities.
 
-For creators, clear metadata standards would reduce time spent describing and classifying their content. Simple, easy to understand fields would replace the repetitive platform-specific data entry they are currently required to complete. This simplicity will help media move across
-
-platforms as needed or desired, and potential viewers will have an easier time finding and supporting creators’ efforts.
+For creators, clear metadata standards would reduce time spent describing and classifying their content. Simple, easy to understand fields would replace the repetitive platform-specific data entry they are currently required to complete. This simplicity will help media move across platforms as needed or desired, and potential viewers will have an easier time finding and supporting creators’ efforts.
 
 For the livestream industry, metadata can increase efficiency and reduce friction in data distribution. As data becomes more widely available and easily interpretable, platforms and services will find everything from ad sales to viewer growth initiatives scale far more easily with accurate, universal metadata. Like the barcode did for retail, warehousing, and logistics, metadata standards can transform livestream businesses and benefit all stakeholders.
 
@@ -28,7 +26,7 @@ To start the process, OnNow.tv has drawn up a first version for a metadata stand
 
 > “OnNow.tv​ was an early mover in this space and they are once again ahead of the pack with establishing universal metadata so all players in livestreaming can work collaboratively on growing the industry as a whole.”
 > 
-> Karen Allen, the author of ​_[Twitch for Musicians](https://www.amazon.com/Twitch-Musicians-Step-Step-Livestream-ebook/dp/B07WKLVHRZ)_​
+> Karen Allen, the author of ​[Twitch for Musicians](https://www.amazon.com/Twitch-Musicians-Step-Step-Livestream-ebook/dp/B07WKLVHRZ)​
 
 In addition, the OnNow.tv team thinks developers have an important role to play in improving and using livestream metadata. ​OnNow.tv​ encourages the community to contribute to this project and will be hosting their standard on ​**Github** (​[https://github.com/OnNow-tv/livestream-data/​](https://github.com/OnNow-tv/livestream-data/)) to track changes and gather feedback from the developer community as they proceed towards the official release of the standard.
 
